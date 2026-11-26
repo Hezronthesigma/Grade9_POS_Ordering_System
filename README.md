@@ -1,4 +1,4 @@
-# Grade9_POS_Ordering_System
+# Grade12 ordering system
 Ordering System
 Developer A:
   Hezron
