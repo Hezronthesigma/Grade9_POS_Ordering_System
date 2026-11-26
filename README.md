@@ -1,3 +1,4 @@
 # Grade9_POS_Ordering_System
-Ordering SYstem
+Ordering System
 Hezron O. Rivera & Ace Nigyl Visca
+ganito pala hayup ka hez
