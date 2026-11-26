@@ -1,4 +1,4 @@
-# Grade9_POS_Ordering_System lolong
+# Grade9_POS_Ordering_System 
 Ordering System
 Developer A:
   Hezron
